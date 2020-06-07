@@ -6,3 +6,5 @@
 /ExcelWeb/ExcelWeb.sln
 /ExcelWeb/.vs/ExcelWeb/v16
 /.vs
+/ExcelWeb/.vs/ExcelWeb/config
+/ExcelWeb/ExcelWeb/bin/Debug/netcoreapp3.1
